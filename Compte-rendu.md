@@ -380,7 +380,7 @@ Pour aller à la fin du fichier, il faut appuyer sur la touche `'maj + alt + :'`
 
 4) **Annulez cette action**
 
-Afin d'annuler cette action, il suffit d'appuyer 2 fois sur `'maj + U'`.
+Afin d'annuler cette action, il suffit d'appuyer 2 fois sur `'alt + U'`.
 
 > Une fois afin d'annuler le *coller* et la deuxième pour annuler le *couper*.
 
